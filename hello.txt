@@ -1,1 +1,3 @@
 hello git!
+public static void main(String[] args){
+}
